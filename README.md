@@ -15,3 +15,5 @@ GPU can be enable by following these steps:
 * Click on the RAM/Disk usage, this will show real time graphs of RAM and Disk usage.
 * Then go to change runtime type.
 * For hardware accelarator select GPU and save.
+---
+**Feel free to point out issue or improvements with the code**
