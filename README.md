@@ -5,7 +5,7 @@ The dataset contains 243 images of 5 big cats namely Tiger,Lion,Cheetah,Leopard 
 
 Steps to run
 ---
-Check out the dataset on [kaggle](https://www.kaggle.com/datasets/juliencalenge/felidae-tiger-lion-cheetah-leopard-puma)
+Check out the dataset on [Kaggle](https://www.kaggle.com/datasets/juliencalenge/felidae-tiger-lion-cheetah-leopard-puma)
 
 You dont have to download the dataset,Just open the felidae.ipynb using [Google Colab](https://colab.research.google.com) and run the program.
 The code will download the dataset by itself.
